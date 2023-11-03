@@ -1,0 +1,9 @@
+{
+  "__PROJECT_NAME__": "android-app-demo",
+  "__APP_NAME__": "Android App Demo",
+  "__PROJECT_DESCRIPTION__": "This is a simple Android app demo.",
+  "__PROJECT_URL__": "https://github.com/BetterAndroid/android-app-template",
+  "__PACKAGE_NAME__": "com.highcapable.androidappdemo",
+  "__LICENCE_NAME__": "Apache License 2.0",
+  "__LICENCE_URL__": "https://github.com/BetterAndroid/android-app-template/blob/main/LICENSE"
+}

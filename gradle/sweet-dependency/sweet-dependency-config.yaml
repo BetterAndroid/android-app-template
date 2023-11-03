@@ -1,0 +1,52 @@
+preferences:
+  autowire-on-sync-mode: UPDATE_OPTIONAL_DEPENDENCIES
+  repositories-mode: FAIL_ON_PROJECT_REPOS
+
+repositories:
+  gradle-plugin-portal:
+    scope: PLUGINS
+  google:
+  maven-central:
+
+plugins:
+  com.android.application:
+    alias: android-application
+    version: +
+  com.android.library:
+    alias: android-library
+    version-ref: com.android.application
+  org.jetbrains.kotlin.android:
+    alias: kotlin-android
+    version: +
+
+libraries:
+  com.highcapable.betterandroid:
+    ui-component:
+      version: +
+    ui-extension:
+      version: +
+    system-extension:
+      version: +
+  androidx.core:
+    core:
+      version: +
+    core-ktx:
+      version-ref: <this>::core
+  androidx.appcompat:
+    appcompat:
+      version: +
+  com.google.android.material:
+    material:
+      version: +
+  androidx.constraintlayout:
+    constraintlayout:
+      version: +
+  junit:
+    junit:
+      version: +
+  androidx.test.ext:
+    junit:
+      version: +
+  androidx.test.espresso:
+    espresso-core:
+      version: +
