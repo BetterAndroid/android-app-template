@@ -4,11 +4,11 @@
 [![Telegram](https://img.shields.io/badge/discussion-Telegram-blue.svg?logo=telegram)](https://t.me/BetterAndroid)
 [![Telegram](https://img.shields.io/badge/discussion%20dev-Telegram-blue.svg?logo=telegram)](https://t.me/HighCapable_Dev)
 
-<img src="https://github.com/BetterAndroid/android-app-template/blob/main/img-src/icon.png?raw=true" width = "100" height = "100" alt="LOGO"/>
+<img src="img-src/icon.png" width = "100" height = "100" alt="LOGO"/>
 
 一个快速创建基础 Android 项目的模版。
 
-[English](https://github.com/BetterAndroid/android-app-template/blob/master/README.md) | 简体中文
+[English](README.md) | 简体中文
 
 | <img src="https://github.com/BetterAndroid/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [BetterAndroid](https://github.com/BetterAndroid) |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
