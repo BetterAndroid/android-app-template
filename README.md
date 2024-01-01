@@ -37,16 +37,8 @@ In the root directory of the project, you can find two files, `initializer.json`
    "__PROJECT_NAME__": "android-app-demo",
    // Your app name
    "__APP_NAME__": "Android App Demo",
-   // Your project description
-   "__PROJECT_DESCRIPTION__": "This is a simple Android app demo.",
-   // Your project repository URL (can be left blank for non-open source projects and deleted in gradle.properties later)
-   "__PROJECT_URL__": "https://github.com/BetterAndroid/android-app-template",
    // Your app package name
-   "__PACKAGE_NAME__": "com.highcapable.androidappdemo",
-   // Your project license name (for non-open source projects, you can leave it blank and delete it in gradleproperties later)
-   "__LICENCE_NAME__": "Apache License 2.0",
-   // Your project license URL (for non-open source projects, you can leave it blank and delete it later in gradle.properties)
-   "__LICENCE_URL__": "https://github.com/BetterAndroid/android-app-template/blob/main/LICENSE"
+   "__PACKAGE_NAME__": "com.highcapable.androidappdemo"
 }
 ```
 

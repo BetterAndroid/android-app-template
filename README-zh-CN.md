@@ -33,16 +33,8 @@
   "__PROJECT_NAME__": "android-app-demo",
   // 你的 App 名称
   "__APP_NAME__": "Android App Demo",
-  // 你的项目描述
-  "__PROJECT_DESCRIPTION__": "This is a simple Android app demo.",
-  // 你的项目存储库 URL (非开源项目可不填并稍后在 gradle.properties 中删除)
-  "__PROJECT_URL__": "https://github.com/BetterAndroid/android-app-template",
   // 你的 App 包名
-  "__PACKAGE_NAME__": "com.highcapable.androidappdemo",
-  // 你的项目许可证名称 (非开源项目可不填并稍后在 gradle.properties 中删除)
-  "__LICENCE_NAME__": "Apache License 2.0",
-  // 你的项目许可证 URL (非开源项目可不填并稍后在 gradle.properties 中删除)
-  "__LICENCE_URL__": "https://github.com/BetterAndroid/android-app-template/blob/main/LICENSE"
+  "__PACKAGE_NAME__": "com.highcapable.androidappdemo"
 }
 ```
 
