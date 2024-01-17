@@ -24,6 +24,8 @@ Through this template, you can quickly create a clean and concise standard Andro
 
 The template automatically integrates the [BetterAndroid](https://github.com/BetterAndroid/BetterAndroid) dependency for you, which can help make your development easier.
 
+If you need to use the Jetpack Compose development methods, please refer to another template [android-compose-app-template](https://github.com/BetterAndroid/android-compose-app-template).
+
 ## Get Started
 
 Click the "Use this template" button on GitHub to use this template.
